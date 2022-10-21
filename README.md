@@ -7,7 +7,7 @@
 [![codecov](https://codecov.io/gh/seankmartin/napari-cookiecut/branch/main/graph/badge.svg)](https://codecov.io/gh/seankmartin/napari-cookiecut)
 [![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-cookiecut)](https://napari-hub.org/plugins/napari-cookiecut)
 
-Fixed cut
+The default values from the napari-cookiecutter plugin for reference.
 
 ----------------------------------
 
