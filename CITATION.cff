@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: If you use this plugin, please cite it using these metadata
+title: 'napari-cookiecut: Fixed cut'
+url: https://github.com/seankmartin/napari-cookiecut
+authors:
+- given-names: Sean
+  family-names: Martin
